@@ -1,0 +1,9 @@
+#Mon Nov 14 21:26:33 EST 2011
+avrtarget/de.innot.avreclipse.configuration.app.debug.822236753/ClockFrequency=1600000
+avrtarget/de.innot.avreclipse.configuration.app.debug.822236753/ExtRAMSize=0
+avrtarget/de.innot.avreclipse.configuration.app.debug.822236753/ExtendedRAM=false
+avrtarget/de.innot.avreclipse.configuration.app.debug.822236753/MCUType=atmega324p
+avrtarget/de.innot.avreclipse.configuration.app.debug.822236753/UseEEPROM=false
+avrtarget/de.innot.avreclipse.configuration.app.debug.822236753/UseExtendedRAMforHeap=true
+avrtarget/perConfig=true
+eclipse.preferences.version=1
